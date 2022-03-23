@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to Yuri's Github Page !
+Let's Play Some Basketball 
+Basketball is one of the most popular sports in the world. It is played with a ball and a hoop. Players score points by shooting the ball through the hoop.
 
-You can use the [editor on GitHub](https://github.com/yurithewinner/yurithewinner.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+#### 2020 NBA FINALS : HEAT VS LAKERS
+https://youtu.be/wDrgo7o9ClM
 
-### Markdown
+In this best-of-seven playoff series, the Western Conference champion Los Angeles Lakers defeated the Eastern Conference champion Miami Heat, 4–2, winning their first NBA championship in ten years. It was the franchise's 17th title, tying the Boston Celtics for the most in league history.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The National Basketball Association, or NBA, is a professional basketball league comprised of 30 teams across North America featuring the best basketball players in the world.
+There are many NBA Legends had played their legendary career in NBA. Players like Michael Jordan, Larry Bird, Magic Johnson, Lebron James, Kobe Bryant and more..
 
-```markdown
-Syntax highlighted code block
+My favorite team of all-time is Miami Heat and my favorite player in this current leauge is Tyler Herro. A Bucket.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yurithewinner/yurithewinner.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+That's it for now, Bye. 
